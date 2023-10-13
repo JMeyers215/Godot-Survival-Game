@@ -1,10 +1,17 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1697126836
+::res://::1697169788
 icon.svg::CompressedTexture2D::5291111458616090346::1697126587::1697126593::1::::<><>::
 ::res://Assets/::1697126853
 rocks.obj::Mesh::2480446806789244090::1697126853::1697126853::1::::<><>::
 Terrain.obj::Mesh::8132174769973937947::1697126853::1697126853::1::::<><>::
 treePine.obj::Mesh::275536516656048726::1697126853::1697126853::1::::<><>::
 ::res://Materials/::1697126836
-::res://Scenes/::1697126820
-::res://Scripts/::1697126830
+::res://Scenes/::1697169697
+main.tscn::PackedScene::2755230250207769111::1697169697::0::1::::<><>::uid://dn4jy3jed2hyh::::res://Assets/Terrain.obj<>res://Scripts/playercontroller.gd<>res://Scenes/PlayerNeeds.gd<>res://Scripts/Need.gd<>res://Scripts/Day_Night Cycle.gd<>uid://62qi2nogmtrx::::res://Scenes/NeedUIBar.tscn<>uid://d6qbtm1s612a::::res://Assets/treePine.obj<>uid://bblsujth184li::::res://Assets/rocks.obj
+NeedUIBar.tscn::PackedScene::2232579549231639909::1697167648::0::1::::<><>::res://Scripts/NeedUIBar.gd
+PlayerNeeds.gd::GDScript::-1::1697169088::0::1::::<>Node3D<>::
+::res://Scripts/::1697169697
+Day_Night Cycle.gd::GDScript::-1::1697166387::0::1::::<>Node3D<>::
+Need.gd::GDScript::-1::1697168533::0::1::::Need<>Node<>::
+NeedUIBar.gd::GDScript::-1::1697167640::0::1::::<>ProgressBar<>::
+playercontroller.gd::GDScript::-1::1697169697::0::1::::<>CharacterBody3D<>::

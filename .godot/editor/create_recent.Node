@@ -1,5 +1,13 @@
+Node
+Label
+ProgressBar
+Control
+Node3D
+WorldEnvironment
+DirectionalLight3D
+Camera3D
+MeshInstance3D
 CollisionShape3D
 CharacterBody3D
-MeshInstance3D
 CollisionPolygon3D
 StaticBody3D
